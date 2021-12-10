@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
+
 <wallpaper deleted="false">
 <name>chris-lawton-5IHz5WhosQE-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/chris-lawton-5IHz5WhosQE-unsplash.jpg</filename>
@@ -10,6 +11,35 @@
     <shade_type>solid</shade_type>
     <artist>Chris Lawton</artist>
 </wallpaper>
+
+<name>chris-lawton-cvO0FxApsZo-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/chris-lawton-cvO0FxApsZo-unsplash.jpg</filename>
+  <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+    <artist>Chris Lawton</artist>
+</wallpaper>
+
+<name>chris-lawton-py9y23XYIAA-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/chris-lawton-py9y23XYIAA-unsplash.jpg</filename>
+  <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+    <artist>Chris Lawton</artist>
+</wallpaper>
+
+<name>chris-lawton-TRXr1aFlF2E-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/chris-lawton-TRXr1aFlF2E-unsplash.jpg</filename>
+  <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+    <artist>Chris Lawton</artist>
+</wallpaper>
+
+
 <wallpaper deleted="false">
 <name>chris-lawton-zvKx6ixUhWQ-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/chris-lawton-zvKx6ixUhWQ-unsplash.jpg</filename>
@@ -19,6 +49,7 @@
     <shade_type>solid</shade_type>
     <artist>Chris Lawton</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>christoffer-engstrom-SIczJ91He3c-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/christoffer-engstrom-SIczJ91He3c-unsplash.jpg</filename>
@@ -28,6 +59,7 @@
     <shade_type>solid</shade_type>
     <artist>Christoffer Engstrom</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>ciprian-boiciuc-RsQycoLyDew-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/ciprian-boiciuc-RsQycoLyDew-unsplash.jpg</filename>
@@ -37,6 +69,17 @@
     <shade_type>solid</shade_type>
     <artist>Ciprian Boiciuc</artist>
 </wallpaper>
+
+<wallpaper deleted="false">
+<name>jairo-gonzalez-cETvRCVQTfg-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/jairo-gonzalez-cETvRCVQTfg-unsplash.jpg</filename>
+  <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+    <artist>Jairo Gonzalez</artist>
+</wallpaper>
+
 <wallpaper deleted="false">
 <name>jakob-owens-U_2kP7bkFKw-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/jakob-owens-U_2kP7bkFKw-unsplash.jpg</filename>
@@ -46,6 +89,7 @@
     <shade_type>solid</shade_type>
     <artist>Jakob Owens</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>james-zwadlo-hpZh7Pvs9mk-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/james-zwadlo-hpZh7Pvs9mk-unsplash.jpg</filename>
@@ -55,15 +99,18 @@
     <shade_type>solid</shade_type>
     <artist>James Zwadlo</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
-<name>johannes-plenio-RwHv7LgeC7s-unsplash</name>
-<filename>/usr/share/backgrounds/freaxmate-backgrounds/johannes-plenio-RwHv7LgeC7s-unsplash.jpg</filename>
+<name>joanna-lopez-20VG6CnBH0c-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/joanna-lopez-20VG6CnBH0c-unsplash.jpg</filename>
   <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
-    <artist>Johannes Plenio</artist>
+    <artist>Joanna Lopez</artist>
 </wallpaper>
+
+
 <wallpaper deleted="false">
 <name>john-towner-3Kv48NS4WUU-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/john-towner-3Kv48NS4WUU-unsplash.jpg</filename>
@@ -73,6 +120,7 @@
     <shade_type>solid</shade_type>
     <artist>John Towner</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>jotaka-H2DbZgTvKP8-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/jotaka-H2DbZgTvKP8-unsplash.jpg</filename>
@@ -82,6 +130,7 @@
     <shade_type>solid</shade_type>
     <artist>Jotaka</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>jotaka-iTCFCE9MPpM-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/jotaka-iTCFCE9MPpM-unsplash.jpg</filename>
@@ -91,6 +140,7 @@
     <shade_type>solid</shade_type>
     <artist>Jotaka</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>jotaka-mS2PVIjBVj8-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/jotaka-mS2PVIjBVj8-unsplash.jpg</filename>
@@ -100,6 +150,7 @@
     <shade_type>solid</shade_type>
     <artist>Jotaka</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>jotaka-pa1ZR7j8Dzc-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/jotaka-pa1ZR7j8Dzc-unsplash.jpg</filename>
@@ -109,6 +160,7 @@
     <shade_type>solid</shade_type>
     <artist>Jotaka</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>jotaka-_XoDHq4vXvY-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/jotaka-_XoDHq4vXvY-unsplash.jpg</filename>
@@ -118,6 +170,7 @@
     <shade_type>solid</shade_type>
     <artist>Jotaka</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>julien-riedel-alGtgU3MQu4-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/julien-riedel-alGtgU3MQu4-unsplash.jpg</filename>
@@ -127,6 +180,7 @@
     <shade_type>solid</shade_type>
     <artist>Julien Riedel</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>karsten-wurth-karsten-wuerth-rafblRbne3o-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/karsten-wurth-karsten-wuerth-rafblRbne3o-unsplash.jpg</filename>
@@ -136,6 +190,7 @@
     <shade_type>solid</shade_type>
     <artist>Karsten Wurth</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>katerina-kerdi--YiJvbfNDqk-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/katerina-kerdi--YiJvbfNDqk-unsplash.jpg</filename>
@@ -145,6 +200,7 @@
     <shade_type>solid</shade_type>
     <artist>Katerina Kerdi</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>marina-montoya-bqkmKInb_9E-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/marina-montoya-bqkmKInb_9E-unsplash.jpg</filename>
@@ -154,6 +210,7 @@
     <shade_type>solid</shade_type>
     <artist>Marina Montoya</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>michael-coury-DiKkJKvDi64-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/michael-coury-DiKkJKvDi64-unsplash.jpg</filename>
@@ -163,6 +220,7 @@
     <shade_type>solid</shade_type>
     <artist>Michael Coury</artist>
 </wallpaper>
+
 <wallpaper deleted="false">
 <name>patrick-tomasso-5hvn-2WW6rY-unsplash</name>
 <filename>/usr/share/backgrounds/freaxmate-backgrounds/patrick-tomasso-5hvn-2WW6rY-unsplash.jpg</filename>
@@ -171,5 +229,45 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
     <artist>Patrick Tomasso</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+<name>paul-scherer-1mAqQGg6FwI-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/paul-scherer-1mAqQGg6FwI-unsplash.jpg</filename>
+  <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+    <artist>Paul Scherer</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+<name>scott-carroll-qKcglCaZtTA-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/scott-carroll-qKcglCaZtTA-unsplash.jpg</filename>
+  <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+    <artist>Scott Carroll</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+<name>simon-weisser-phS37wg8cQg-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/simon-weisser-phS37wg8cQg-unsplash.jpg</filename>
+  <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+    <artist>Simon Weisser</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+<name>soma-laszlo-3xvBQY3gvRU-unsplash</name>
+<filename>/usr/share/backgrounds/freaxmate-backgrounds/soma-laszlo-3xvBQY3gvRU-unsplash.jpg</filename>
+  <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+    <artist>Soma Laszlo</artist>
 </wallpaper>
 </wallpapers>
